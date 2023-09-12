@@ -1,5 +1,6 @@
 # Credit to ChatGPT
 
+
 class Utils:
     @staticmethod
     def reverse_number(number):
